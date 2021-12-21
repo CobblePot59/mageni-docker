@@ -8,3 +8,4 @@ It indicates potential or proven weaknesses on the machines tested. This include
 ## Installation / Configuration
 
 ## Preview
+![alt text](https://raw.githubusercontent.com/CobblePot59/mageni-docker/main/preview.png)
